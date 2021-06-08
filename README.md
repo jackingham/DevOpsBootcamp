@@ -9,7 +9,7 @@
 -
 
 
-### Linux commands thata also work on Bash
+### Linux commands that also work on Bash
 - Create a Directory 'mkdir name_of_the_directory'
 - Go inside the Directory 'cd name_of_the_directory'
 - Come out of the Directory 'cd ..' (up 1 level) or 'cd' (root directory)
