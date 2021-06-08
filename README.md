@@ -9,7 +9,7 @@
 -
 
 
-### Linux commands that also work on Bash
+### Linux commands 
 - Create a Directory 'mkdir name_of_the_directory'
 - Go inside the Directory 'cd name_of_the_directory'
 - Come out of the Directory 'cd ..' (up 1 level) or 'cd' (root directory)
@@ -22,3 +22,8 @@
 - Print the contents of a file 'cat name_of_file'
 - Delete a folder 'rm -rf name_of_the_folder'
 - Delete a file 'rm filename'
+- Update VM 'sudo apt-get update -y' sudo runs with perms, apt-get is an install manager, -y flag accepts all permissions. 
+- Install a program 'sudo apt-get install {program}' 
+
+### Vagrant commands
+- 'vagrant up' Launches the vm
