@@ -25,5 +25,20 @@
 - Update VM 'sudo apt-get update -y' sudo runs with perms, apt-get is an install manager, -y flag accepts all permissions. 
 - Install a program 'sudo apt-get install {program}' 
 
+
+   sudo apt-get update
+   nginx -v
+   top
+   clear
+   ps
+   sudo su
+   systemctl status nginx
+   systemctl stop nginx
+   sudo systemctl stop nginx
+   sudo systemctl status nginx
+   sudo systemctl restart nginx
+   history
+ 
+
 ### Vagrant commands
 - 'vagrant up' Launches the vm
